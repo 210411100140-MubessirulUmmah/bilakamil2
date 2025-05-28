@@ -76,8 +76,8 @@ export default function ProfilePage() {
                     >
                         <Image src={'/assets/img/flower-5.png'} alt="Flower" width={1000} height={1000} className="absolute w-44 -top-4 -left-6" />
                         <Image
-                            src={'/assets/img/izza.jpg'}
-                            alt="Bila"
+                            src={'/assets/img/bila.jpg'}
+                            alt="kamil"
                             width={1000}
                             height={1000}
                             className="rounded-t-full border-8 border-primary"
@@ -128,8 +128,8 @@ export default function ProfilePage() {
                             className="absolute w-44 -top-4 -right-6 transform scale-x-[-1]"
                         />
                         <Image
-                            src={'/assets/img/gallery-8.jpg'}
-                            alt="Risky"
+                            src={'/assets/img/kamil.jpg'}
+                            alt="kamil"
                             width={1000}
                             height={1000}
                             className="rounded-t-full border-8 border-primary"
