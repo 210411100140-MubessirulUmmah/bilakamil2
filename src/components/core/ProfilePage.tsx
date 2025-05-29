@@ -90,8 +90,8 @@ export default function ProfilePage() {
                         variants={{ hidden: { opacity: 0, y: 100 }, visible: { opacity: 1, y: 0 } }}
                         className="text-center text-primary"
                     >
-                        <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Bila</h2>
-                        <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Salzabila Romadhona</p>
+                        <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Kamil</h2>
+                        <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Insan Kamil</p>
                         <p className="sm:text-lg text-sm">Putra dari</p>
                         <p className="sm:text-lg text-sm">Bapak Abd. Aziz (Alm) & Ibu Masrifah</p>
                         {/* <Link
@@ -142,8 +142,8 @@ export default function ProfilePage() {
                         variants={{ hidden: { opacity: 0, y: 100 }, visible: { opacity: 1, y: 0 } }}
                         className="text-center text-primary"
                     >
-                        <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Kamil</h2>
-                        <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Insan Kamil</p>
+                        <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Bila</h2>
+                        <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Salzabila Romadhona</p>
                         <p className="sm:text-lg text-sm">Putri dari</p>
                         <p className="sm:text-lg text-sm">Bapak Samuji & Ibu Masri</p>
                         {/* <Link
