@@ -55,7 +55,7 @@ export default function EndPage() {
                     className="md:w-72 w-52 mx-auto mb-6"
                 >
                     <Image
-                        src={'/assets/img/closing.jpg'}
+                        src={'/assets/img/SAVE_20250529_210246.jpg'}
                         alt="Bila & Kamil"
                         width={1000}
                         height={1000}
