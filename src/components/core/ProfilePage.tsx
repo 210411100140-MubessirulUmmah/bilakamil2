@@ -76,7 +76,7 @@ export default function ProfilePage() {
                     >
                         <Image src={'/assets/img/flower-5.png'} alt="Flower" width={1000} height={1000} className="absolute w-44 -top-4 -left-6" />
                         <Image
-                            src={'/assets/img/bila.jpg'}
+                            src={'/assets/img/kamil.jpg'}
                             alt="kamil"
                             width={1000}
                             height={1000}
@@ -92,8 +92,8 @@ export default function ProfilePage() {
                     >
                         <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Bila</h2>
                         <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Salzabila Romadhona</p>
-                        <p className="sm:text-lg text-sm">Putri dari</p>
-                        <p className="sm:text-lg text-sm">Bapak Samuji & Ibu Masri</p>
+                        <p className="sm:text-lg text-sm">Putra dari</p>
+                        <p className="sm:text-lg text-sm">Bapak Abd. Aziz (Alm) & Ibu Masrifah</p>
                         {/* <Link
                             href={'https://www.instagram.com/iizzatulmunthamimah_'}
                             target="_blank"
@@ -128,8 +128,8 @@ export default function ProfilePage() {
                             className="absolute w-44 -top-4 -right-6 transform scale-x-[-1]"
                         />
                         <Image
-                            src={'/assets/img/kamil.jpg'}
-                            alt="kamil"
+                            src={'/assets/img/bila.jpg'}
+                            alt="bila"
                             width={1000}
                             height={1000}
                             className="rounded-t-full border-8 border-primary"
@@ -144,8 +144,8 @@ export default function ProfilePage() {
                     >
                         <h2 className={`${tangerine.className} md:text-8xl text-6xl font-bold`}>Kamil</h2>
                         <p className={`${vidaloka.className} sm:text-4xl text-2xl text-tertiary mb-4`}>Insan Kamil</p>
-                        <p className="sm:text-lg text-sm">Putra dari</p>
-                        <p className="sm:text-lg text-sm">Bapak Abd. Aziz (Alm) & Ibu Masrifah</p>
+                        <p className="sm:text-lg text-sm">Putri dari</p>
+                        <p className="sm:text-lg text-sm">Bapak Samuji & Ibu Masri</p>
                         {/* <Link
                             href={'https://www.instagram.com/risky_putra09'}
                             target="_blank"
