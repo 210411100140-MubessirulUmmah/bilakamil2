@@ -103,8 +103,8 @@ export default function Home() {
                 <CountdownPage />
                 <ProfilePage />
                 <SchedulePage />
-                {/* <GalleryPage />
-                <StoryPage /> */}
+                <GalleryPage />
+                {/* <StoryPage /> */}
                 <RsvpPage />
                 <WishesPage />
                 <EndPage />
